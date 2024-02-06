@@ -1,5 +1,8 @@
 ## Building YouTube Recommender System with Video Thumbnails and Titles
 
+[Huggingface Space](https://huggingface.co/spaces/Ransaka/youtube-recommender)
+
+
 ![Architecture Diagram](images/architecture.png)
 
 This is hybrid recommender system with two methods,
